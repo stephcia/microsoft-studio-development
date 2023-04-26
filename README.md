@@ -46,7 +46,7 @@ We used descriptive statistics, including measures of central tendency and varia
 - The highest revenue movie genres by worldwide box office are action and adventure. Action and adventure films make up 86% of global box office revenue for movies from 1995 - 2022. 
 - Comedy makes up 16.63% of all movies made from 1995 - 2022, but only 14% of global box office revenue.
 
-![img](./images/movie_genre_box_office.png)
+![img](./images/box_office_genre_market_share.png)
 
 - **Runtime** Movies with runtimes between 120 - 180 minutes have the highest average revenue. For Action and Adventure films, runtimes between 150 - 180 minutes are the most successful and should be used as a guide for runtime length.
 
