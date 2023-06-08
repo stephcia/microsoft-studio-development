@@ -39,11 +39,11 @@ We used descriptive statistics, including measures of central tendency and varia
 
 ## Results
 
-- **Content/IP** Microsoft will be purchasing roughly 25% of top viewed IP's on Twitch. A further breakdown of which of the popular IP's are worth investing.
+- **Content/IP** Microsoft will be purchasing roughly 25% of top viewed IP's on Twitch.
 
+![img](./images/twitch_owned.png)
 
-- **Genre** -
-- The highest revenue movie genres by worldwide box office are action and adventure. Action and adventure films make up 86% of global box office revenue for movies from 1995 - 2022. 
+- **Genre** - The highest revenue movie genres by worldwide box office are action and adventure. Action and adventure films make up 86% of global box office revenue for movies from 1995 - 2022. 
 - Comedy makes up 16.63% of all movies made from 1995 - 2022, but only 14% of global box office revenue.
 
 ![img](./images/box_office_genre_market_share.png)
@@ -81,6 +81,6 @@ Furthermore, we recommend conducting thorough research on Microsoft's intellectu
 
 ## For more information:
 
-See the fully analysis in the [Jupyter notebook](https://github.com/stephcia/Microsoft_Film_Project) or to review the presentation.
+See the fully analysis in the [Jupyter notebook](https://github.com/stephcia/microsoft-studio-development/blob/main/cleaning_analysis.ipynb) or to review the presentation.
 
 
