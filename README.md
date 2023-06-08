@@ -39,12 +39,11 @@ We used descriptive statistics, including measures of central tendency and varia
 
 ## Results
 
-- **Content/IP** Microsoft will be purchasing roughly 25% of top viewed IP's on Twitch.
+- **Content/IP** Microsoft will be purchasing roughly 20% of top viewed IP's on Twitch.
 
 ![img](./images/twitch_owned.png)
 
-- **Genre** - The highest revenue movie genres by worldwide box office are action and adventure. Action and adventure films make up 86% of global box office revenue for movies from 1995 - 2022. 
-- Comedy makes up 16.63% of all movies made from 1995 - 2022, but only 14% of global box office revenue.
+- **Genre** - The highest revenue movie genres by worldwide box office are action and adventure. Action and adventure films make up 86% of global box office revenue for movies from 1995 - 2022. Comedy makes up 16.63% of all movies made from 1995 - 2022, but only 14% of global box office revenue.
 
 ![img](./images/box_office_genre_market_share.png)
 
@@ -72,12 +71,11 @@ The analysis lead to three recommendations for Microsoft Studios to consider whi
 
 ## Next steps:
 
-The datasets employed for our analysis were pulled from publicly available sources, and do not include cross-platform measurement data. In this regard, we recommend the utilization of Nielsen, a leading global provider of audience insight, data, and analytics, to obtain additional data and gain deeper insights into the television, film, content and digital landscape. 
+The datasets employed for our analysis were pulled from publicly available sources, and do not include cross-platform measurement data. In this regard, we recommend the utilization of Nielsen, a leading global provider of audience insight, data, and analytics, to obtain additional data and gain deeper insights into the television, film, content and digital landscape.
 
 To succeed, Microsoft Studio must maintain exceptional creative standards and collaborate with talented individuals capable of producing original and captivating narratives. To this end, executives spearheading the studio's efforts should allocate significant time and resources towards recruiting a robust team of production executives, thereby establishing the studio for optimal success. It is imperative to seek out exceptional talent from major studios and production companies, with a focus on top-tier producers, directors, and writers who possess in-depth industry knowledge.
 
 Furthermore, we recommend conducting thorough research on Microsoft's intellectual property portfolio and revenue streams to evaluate the feasibility of implementing multi-platform strategies that can complement the production of film and television content.
-
 
 ## For more information:
 
